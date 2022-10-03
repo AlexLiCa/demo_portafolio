@@ -1,2 +1,2 @@
 # demo_portafolio
-Intento 1 de portafiolio 
+Pagina que se tomo de base: https://dribbble.com/shots/18363312-Richard-Freelancer-Portfolio
